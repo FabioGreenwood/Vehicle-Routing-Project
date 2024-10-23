@@ -6,6 +6,10 @@ This project was to use decrete mathamatics to define a vehicle routing problem.
 
 The vast majority of this was my own work.
 
+## Navigation
+
+This project was carried out in an orderly fashion, while likely not up to professional standards, the method "run_scenario" within run_scenario.py has a structure which follows the structure of the documentation, with text blocks (e.g. """ contents """) matching the sections within the documentation.docx, good commenting and the constraints being assigned abbreviated references, example: "#BTC3_lin" noting that this is the third constraint defined in the "Bus Travel Constraints" subsection within the word doc.
+
 The repository contains:
 -  The documentation can be found in the pdf document called "Discrete Optimisation Project Documentation". The document contains the mathematical model definition, assumptions and a theorical metaheuristic adaptation of the problem.
 
@@ -17,7 +21,7 @@ The repository contains:
     * example outputs can be found in folder: outputs\
 
 ## DEPENDENCIES
-- A Gourobi license
+- A Gourbi license
 - The installation of following libraries: sys, math, random, itertools, os, datetime, pathlib gourobipy, numpy.lib, pandas, numpy, copy, matplotlib.pyplot, matplotlib.gridspec, pickle
 - The model was created to work with an older version of python (likely 3.9)
 
