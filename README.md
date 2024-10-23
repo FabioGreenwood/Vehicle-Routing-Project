@@ -21,7 +21,7 @@ The repository contains:
     * example outputs can be found in folder: outputs\
 
 ## DEPENDENCIES
-- A Gourbi license
+- A Gurobi license
 - The installation of following libraries: sys, math, random, itertools, os, datetime, pathlib gourobipy, numpy.lib, pandas, numpy, copy, matplotlib.pyplot, matplotlib.gridspec, pickle
 - The model was created to work with an older version of python (likely 3.9)
 
